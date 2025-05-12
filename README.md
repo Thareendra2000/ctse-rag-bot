@@ -26,7 +26,7 @@ A simple chatbot built in a Jupyter Notebook using the free Gemini API to answer
 
 ```
 
-ctse-rac-bot/
+ctse-rag-bot/
 ├── ctse_ragbot.ipynb
 ├── 2023-S1-SE4020-Lecture-03-Functions.pdf
 ├── .env
