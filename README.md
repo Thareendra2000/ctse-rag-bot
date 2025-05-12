@@ -26,13 +26,11 @@ A simple chatbot built in a Jupyter Notebook using the free Gemini API to answer
 
 ```
 
-ctse-chatbot-gemini/
-├── ctse\_chatbot.ipynb
+ctse-rac-bot/
+├── ctse_ragbot.ipynb
 ├── 2023-S1-SE4020-Lecture-03-Functions.pdf
 ├── .env
 ├── requirements.txt
-├── report/report.pdf
-├── demo/ctse\_chatbot\_demo.mp4
 
 ````
 
@@ -44,13 +42,12 @@ ctse-chatbot-gemini/
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # Windows: venv\Scripts\activate
-````
+   ```
 
 2. Install dependencies:
-
    ```bash
    pip install -r requirements.txt
-   ```
+   ````
 
 3. Add your Gemini API key to a `.env` file:
 
@@ -58,10 +55,10 @@ ctse-chatbot-gemini/
    GOOGLE_API_KEY=your-api-key-here
    ```
 
-4. Launch Jupyter Notebook and run `ctse_chatbot.ipynb`
+4. Launch Jupyter Notebook and run `ctse_ragbot.ipynb`
 
-## 👤 Author
+## Author
 
-**Thareendra Tennakoon**
-SE4010 – Semester 1, 2025
+**IT21171338 - Tennakoon T. M. T. C.**
+SE4010
 SLIIT
